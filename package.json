@@ -37,5 +37,13 @@
   "dependencies": {
     "core-js": "^3.6.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaAlexandrova1/object-task-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnnaAlexandrova1/object-task-1/issues"
+  },
+  "homepage": "https://github.com/AnnaAlexandrova1/object-task-1#readme",
   "description": ""
 }

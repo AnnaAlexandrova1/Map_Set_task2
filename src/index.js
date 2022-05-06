@@ -1,5 +1,4 @@
-import './css/style.css';
-
-import './js/orderByProps';
+import './js/Team';
+import './js/Character';
 
 // TODO: write your code in app.js
